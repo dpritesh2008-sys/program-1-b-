@@ -1,4 +1,4 @@
-# program-1-b-
+en number# program-1-b-
 C module 1
 EX NO-1)b)- Find whether a number is positive or not.
 Date:19/10/2025
@@ -30,6 +30,6 @@ OUTPUT:
 <img width="551" height="235" alt="Screenshot 2025-10-19 184927" src="https://github.com/user-attachments/assets/123384be-2c53-45ee-b0fd-5b42111aa5ce" />
 
 RESULT:
-Thus the program to find whether the given number is positive or not is executed successfully.
+Thus the program to find whether the giv is positive or not is executed successfully.
 
 
